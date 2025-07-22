@@ -1,0 +1,8 @@
+*.\bash_history
+*.DS_Store
+*.log
+*.vimiinfo
+*.swp
+*.swo
+*.swn
+README.md

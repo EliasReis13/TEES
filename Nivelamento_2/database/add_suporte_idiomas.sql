@@ -1,0 +1,1 @@
+ALTER TABLE post ADD language TEXT NOT NULL DEFAULT 'english';
